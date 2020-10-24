@@ -1,3 +1,4 @@
+14. Sushmita Ahlawat
 24. Aditya Saxena
 5. Akshay Kumar Kushawaha
 6.Riya Singh
@@ -5,5 +6,4 @@
 10. Pawan Kumar
 11. Riya Singh
 12. SANTANU PATRA
-14. Sushmita Ahlawat
 15.Tushar Srivastava
